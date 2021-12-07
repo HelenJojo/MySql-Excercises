@@ -1,4 +1,5 @@
 # MySql-Excercises
 
-mysql CRUD operations
+mysql CRUD operations on several databases
  -- insert/delete/update/retreive
+ 
